@@ -211,7 +211,7 @@ body, html {
     font-size: 18px;
   }
   .neon-text {
-  color: rgb(206, 48, 241); /* cyan glow */
+  color: rgb(48, 241, 238); /* cyan glow */
   font-size: 22px;
   text-align: center;
   font-weight: bold;
